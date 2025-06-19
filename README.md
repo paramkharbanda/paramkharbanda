@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Param Kharbanda
 
-<!--
-**paramkharbanda/paramkharbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Grade 11 Student | 📖 Author in Progress | 🧠 Curious Learner
 
-Here are some ideas to get you started:
+I'm currently working on:
+- ✍️ A supernatural thriller novel (~150k words)
+- 💻 Python mini-projects (GUI tools, logic apps, CLI tools)
+- 📚 Exploring AI/ML, Quantum Computing & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Participated In:
+- BITS Goa YEB10 Bootcamp
+- IIT Delhi Quantum Computing Workshop
+- Amity Cybersecurity Summer School
+- Clevered AI/ML Program
+- ISRO Missions Workshop
+
+🛠️ Upcoming:
+- Ethical hacking roadmap starting July
+- More creative tools and educational content
+
+📫 Reach me at: paramkharbanda123@gmail.com
+🔗 LinkedIn: [linkedin.com/in/param-kharbanda(https://linkedin.com/in/param-kharbanda)
